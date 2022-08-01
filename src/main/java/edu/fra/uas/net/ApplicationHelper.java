@@ -46,7 +46,7 @@ public abstract class ApplicationHelper {
 	}
 
 	/**
-	 * Used to print a byte array to console, to check if it's contents are correct.
+	 * Used to print a byte array to console, to check if its contents are correct.
 	 * @param receivedData the byte array we want to take a look at
 	 */
 	public static void printBytes(byte[] receivedData){
